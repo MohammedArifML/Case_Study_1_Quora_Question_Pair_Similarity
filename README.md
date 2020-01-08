@@ -58,3 +58,6 @@ Metric(s):
 
 ### 3.4 Train and Test Construction 
 We build train and test by randomly splitting in the ratio of 70:30 or 80:20 whatever we choose as we have sufficient points to work with.
+
+
+## Courtesy: AppliedAI Course (www.appliedaicourse.com)
